@@ -1,2 +1,2 @@
 # UTB-Attendance
-University Employees attendance and Card generation
+University Employees' attendance and Card generation portal
